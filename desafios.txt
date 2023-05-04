@@ -1,0 +1,98 @@
+##########################################    CALCULOS E FUNÇÕES   ##########################################
+
+-----------------------------------------------------------------------------------------------------------------
+
+1 ---> Faça um programa para calcular o valor gasto em uma viagem.
+
+Você terá 3 variaveis
+    1 - Preço do etanol 
+    2 - Preço da gasolina
+    3 - O tipo de combustivel que está no seu carro
+    4 - Valor medio gasto pelo carro
+    5 - Distância em KM da viagem
+
+Imprima no console o resultado.
+
+-----------------------------------------------------------------------------------------------------------------
+
+2 ---> Faça um programa para calcular a média de 3 notas de um aluno da faculdade e imprima sua média:
+    Média = (nota 1 + nota 2 + nota 3) / 3/
+
+    Classificação:
+     Média menor que 5 = reprovação;
+     Média entre 5 e 7 = recuperação;
+     Média acima de 7 = aprovação;
+
+-----------------------------------------------------------------------------------------------------------------
+
+3 ---> Faça um programa para calcular o IMC de uma pessoa dado o valor de peso e altura.
+
+    Formula do IMC = peso / (altura * altura)
+
+    IMC em adultos Condição:
+    - Abaixo de 18.5 abaixo do peso.
+    - Entre de 18.5 e 25 peso normal.
+    - Entre de 25 e 30 acima do peso.
+    - Entre de 30 e 40 acima do peso.
+    - Acima de 40 obesidade grave.
+
+    -----------------------------------------------------------------------------------------------------------------
+
+4 ---> Elabore um algoritmo que calcula o que deve ser pago por um produto, considerando o preço normal da etiqueta
+e a escolha da condição de pagamento.
+Utilize a seguir os códigos da tabela para ler qual condição de pagamento escolhida e efetuar o cálculo adequado.
+    Código condição de pagamento:
+    - À vista Débito, recebe 10% de desconto;
+    - À vista no Dinheiro ou Pix, recebe 15% de desconto;
+    - Em duas vezes, preço normal de etiqueta sem juros;
+    - Acima de duas vezes, preço normal de etiqueta mais juros de 10%
+
+    -----------------------------------------------------------------------------------------------------------------
+
+##########################################    ORIENTAÇÃO A OBJETOS   ##########################################
+
+-----------------------------------------------------------------------------------------------------------------
+
+1 ---> Crie uma classe que represente carros.
+    Os carros possuem uma marca, uma cor e um consumo médio de combustível por km rodado.
+    Crie um método que dado a quantidade de km e o preço médio do combustivel nos dê o valor gasto em reais para realizar
+    este percurso.
+
+-----------------------------------------------------------------------------------------------------------------
+
+2 ---> Crie uma classe para representar pessoas.
+    Para cada pessoa teremos os atributos nome, peso e altura.
+    As pessoas devem ter a capacidade de dizer o seu IMC (IMC = peso / (peso * altura));
+    Instacie uma pessoa chamada josé que tenha 70 kg de peso e 1,75 de altura e peça ao josé para dizer o valor do seu IMC.
+
+-----------------------------------------------------------------------------------------------------------------
+
+##########################################    ARRAYS E ESTRUTURA DE REPETIÇÃO   #########################################
+
+-----------------------------------------------------------------------------------------------------------------
+
+1 ---> Crie um programa que dado o número imprima a sua tabuada.
+
+-----------------------------------------------------------------------------------------------------------------
+
+2 ---> Crie um programa que seja capaz de percorrer uma lista de números e imprima cada número par.
+
+-----------------------------------------------------------------------------------------------------------------
+
+########################################## FUNÇÕES AUXILIARES GET, PRINT  #########################################
+
+-----------------------------------------------------------------------------------------------------------------
+
+3 --> Uma sala contém 5 alunos e para cada aluno foi sorteado um número de 1 a 100.
+Faça um programa que receba os 5 números sorteados para os alunos e mostre o maior número sorteado.
+
+    Dados de entrada:
+        5
+        50
+        10
+        98
+        23
+        Dados de saída:
+        98
+-----------------------------------------------------------------------------------------------------------------
+
